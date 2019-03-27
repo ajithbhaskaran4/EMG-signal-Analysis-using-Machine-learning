@@ -1,0 +1,3 @@
+the repository contain two .m files 
+the emg_final.m contains the overall programme to get the emg signal and to call the neural network function etc.
+the myneuralnetwork_1.m file have the trained neural network 
