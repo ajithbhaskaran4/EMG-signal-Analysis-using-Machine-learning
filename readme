@@ -1,3 +1,5 @@
 the repository contain two .m files 
 the emg_final.m contains the overall programme to get the emg signal and to call the neural network function etc.
 the myneuralnetwork_1.m file have the trained neural network 
+I have attached .mat files which contains different training sets .
+https://www.dropbox.com/sh/8iv2eukkwkeq2ww/AABXEVLtXUW-4A2K6XADqgLBa?dl=0     this link contains the videos of the project
